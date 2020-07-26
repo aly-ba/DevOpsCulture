@@ -1,2 +1,2 @@
 # DevOpsCulture
-Some Tips &amp; Tracks in DevOps Wolrd
+Some Tips &amp; Tracks in DevOps world
